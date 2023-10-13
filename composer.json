@@ -1,5 +1,5 @@
 {
-    "name": "mahefa/paybox-bundle",
+    "name": "fenitra/paybox-bundle",
     "type": "symfony-bundle",
     "description": "Fork of LexikPayboxBundle to be use in Symfony 5",
     "keywords": ["Symfony5", "bundle", "Paybox", "Payment"],
@@ -8,7 +8,9 @@
     "authors": [
         { "name": "Lexik", "email": "dev@lexik.fr" },
         { "name": "Olivier Maisonneuve", "email": "o.maisonneuve@lexik.fr" },
-        { "name": "Mahefa", "email": "abelmahefa@gmail.com" }
+        { "name": "Mahefa", "email": "abelmahefa@gmail.com" },
+        { "name": "Harifenitra", "email": "fenitraandrianaivosoa@gmail.com" },
+        { "name": "Fetra", "email": "harinjatovo.fetra@gmail.com" }
     ],
     "require": {
         "php": ">=5.5.9",
